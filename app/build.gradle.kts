@@ -90,6 +90,9 @@ dependencies {
     implementation(libs.androidx.core.ktx)           // Android核心KTX扩展
     implementation(libs.androidx.lifecycle.runtime.ktx) // 生命周期KTX扩展
 
+    // 图片加载库 (Coil)
+    implementation("io.coil-kt:coil-compose:2.6.0")  // Coil图片加载库
+
     // Jetpack Compose相关
     implementation(libs.androidx.activity.compose)   // Activity与Compose集成
     implementation(platform(libs.androidx.compose.bom)) // Compose BOM(统一版本管理)
