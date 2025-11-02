@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Android-starter"
+rootProject.name = "apklist"
 include(":app")
  

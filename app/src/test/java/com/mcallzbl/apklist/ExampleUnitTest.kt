@@ -1,4 +1,4 @@
-package com.mcallzbl.android_starter
+package com.mcallzbl.apklist
 
 import org.junit.Test
 

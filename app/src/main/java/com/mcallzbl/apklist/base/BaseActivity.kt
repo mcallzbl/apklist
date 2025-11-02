@@ -1,4 +1,4 @@
-package com.mcallzbl.android_starter.base
+package com.mcallzbl.apklist.base
 
 import android.os.Build
 import android.os.Bundle

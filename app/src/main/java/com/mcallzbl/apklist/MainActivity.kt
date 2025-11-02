@@ -1,4 +1,4 @@
-package com.mcallzbl.android_starter
+package com.mcallzbl.apklist
 
 import android.os.Bundle
 import androidx.activity.compose.setContent
@@ -20,8 +20,8 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.mcallzbl.android_starter.base.BaseActivity
-import com.mcallzbl.android_starter.ui.theme.AndroidstarterTheme
+import com.mcallzbl.apklist.base.BaseActivity
+import com.mcallzbl.apklist.ui.theme.AndroidstarterTheme
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.delay
 import java.time.LocalTime
